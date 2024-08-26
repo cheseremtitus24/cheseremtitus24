@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cheseremtitus24
 - 👀 I’m interested in Software Engineering
-- 🌱 Just Graduated from learning @ALX Africa On a Software Engineering Course on 30th September 2023
+- 🌱 [![](https://ossrank.com/widget/908174)](https://ossrank.com/c/908174-cheserem-titus)
 - 💞️ I’m looking to collaborate on ...
 - 💞️ I’m Currently Working on a WiConnect Africa WISPR Platform - [PayWiFiGo](https://www.paywifigo.me)  ...
 - 📫 How to reach me on twitter @cheseremtitus
